@@ -74,7 +74,7 @@ DEFAULT_ALIGN_MODELS_HF = {
     "lv": "jimregan/wav2vec2-large-xlsr-latvian-cv",
     "tl": "Khalsuu/filipino-wav2vec2-l-xls-r-300m-official",
     "sv": "KBLab/wav2vec2-large-voxrex-swedish",
-    "bn": "ai4bharat/indicwav2vec_v1_bengali"
+    "bn": "shahruk10/wav2vec2-xls-r-300m-bengali-commonvoice"
 }
 
 #https://huggingface.co/ai4bharat/indicwav2vec_v1_bengali
